@@ -13,16 +13,26 @@ Passionate about transforming data into meaningful insights and building intelli
 </div>
 
 ---
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</p>
 
 ## 🚀 About Me
 
-- 🎓 Data Science & AI Enthusiast
-- 🐍 Python Developer
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 📈 Exploring NLP, Deep Learning & LLM Integration
-- 🌱 Currently learning **Speech AI**
-- 💻 Love solving coding problems using Python
-- ⚡ Always learning new technologies
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
+I'm **Ajay Vikram**, a passionate **Data Science & AI enthusiast** who enjoys transforming raw data into meaningful insights and building intelligent applications with Python.
+
+- 🔭 Currently working on **AI & Machine Learning Projects**
+- 🌱 Learning **Speech AI, NLP, LangChain & LLM Integration**
+- 🧠 Exploring **Deep Learning and Generative AI**
+- 📊 Passionate about **Data Analytics & Visualization**
+- 💻 Solving **Python coding challenges** to improve problem-solving skills
+- 🚀 Goal: Become an **AI/ML Engineer** and build impactful AI solutions
+
+> *"Every project is another step toward mastering AI."*
+
+<br clear="right"/>
 
 ---
 
@@ -95,11 +105,21 @@ Passionate about transforming data into meaningful insights and building intelli
 
 # 📈 GitHub Stats
 
+# 📈 GitHub Statistics
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ajayvikram2512&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayvikram2512&theme=github-dark-blue&hide_border=true&background=0d1117" width="48%"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajayvikram2512&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayvikram2512&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
 </div>
-<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=ajayvikram2512&theme=github-dark-blue&hide_border=true"/>
+
+</div>
 ---
 
 # 🔥 GitHub Streak
