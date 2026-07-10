@@ -23,15 +23,10 @@ I enjoy building <b>AI-powered applications</b>, uncovering insights from <b>dat
 
 ---
 
-## 🚀 About Me
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
-
-### 👨‍💻 Who Am I?
-
-I'm **Ajay Vikram**, a passionate **Data Science & AI Enthusiast** dedicated to building intelligent solutions that turn data into meaningful insights.
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 I enjoy exploring the latest advancements in **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing**, while continuously improving my problem-solving and software development skills.
 
