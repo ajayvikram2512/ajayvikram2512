@@ -1,12 +1,21 @@
 <div align="center">
 
-# Hi 👋, I'm Ajay Vikram
+# 👋 Hello World! I'm Ajay Vikram
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Enthusiast;Python+Developer;Machine+Learning+Learner;Building+AI-Powered+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Data+Science+%26+AI+Enthusiast;Python+Developer;Machine+Learning+Learner;Building+Intelligent+AI+Solutions;Turning+Data+Into+Insights;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-### Data Science & AI Enthusiast | Python Developer | Machine Learning Learner
+### 🚀 Passionate about Data Science, Artificial Intelligence & Machine Learning
 
-Passionate about transforming **data into insights** and building **AI-powered solutions** that solve real-world problems.
+<p align="center">
+I enjoy building <b>AI-powered applications</b>, uncovering insights from <b>data</b>, and continuously exploring new technologies to solve real-world problems.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Science-00C4CC?style=for-the-badge"/>
+</p>
 
 <img src="https://komarev.com/ghpvc/?username=ajayvikram2512&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
