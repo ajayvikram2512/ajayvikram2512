@@ -25,24 +25,32 @@ I enjoy building <b>AI-powered applications</b>, uncovering insights from <b>dat
 
 ## 🚀 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+## 🚀 About Me
 
-🎓 Final-year **Data Science** student passionate about AI and Machine Learning.
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-💡 I enjoy building intelligent applications, analyzing data, and continuously learning new technologies.
+### 👨‍💻 Who Am I?
 
-### What I'm Doing
+I'm **Ajay Vikram**, a passionate **Data Science & AI Enthusiast** dedicated to building intelligent solutions that turn data into meaningful insights.
 
-- 🤖 Building AI & Machine Learning Projects
-- 📊 Performing Data Analysis using Python
+I enjoy exploring the latest advancements in **Artificial Intelligence**, **Machine Learning**, and **Natural Language Processing**, while continuously improving my problem-solving and software development skills.
+
+### 🌟 What I'm Working On
+
+- 🤖 Developing AI & Machine Learning Projects
+- 📊 Analyzing data and creating insightful visualizations
 - 🧠 Learning NLP, LangChain & LLM Integration
-- 🎙 Exploring Speech AI
-- 💻 Solving Python Coding Problems
-- 🚀 Working towards becoming an AI/ML Engineer
+- 🎙 Exploring Speech AI technologies
+- 💻 Strengthening Python and Data Structures & Algorithms
+- 🚀 Building projects that solve real-world problems
 
-> **"Every project teaches something new. Every line of code makes me better."**
+### 🎯 Career Goal
 
-<br>
+To become an **AI/ML Engineer** who creates innovative, scalable, and impactful AI-driven applications.
+
+> **"Code with purpose. Learn without limits. Build for impact."** 🚀
+
+<br clear="right"/>
 
 ---
 
