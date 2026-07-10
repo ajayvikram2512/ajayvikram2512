@@ -95,14 +95,11 @@ Passionate about transforming data into meaningful insights and building intelli
 
 # 📈 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajayvikram2512&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayvikram2512&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ajayvikram2512&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayvikram2512&theme=github-dark-blue&hide_border=true&background=0d1117" width="48%"/>
+</div>
+<br>
 ---
 
 # 🔥 GitHub Streak
