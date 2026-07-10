@@ -4,51 +4,53 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Enthusiast;Python+Developer;Machine+Learning+Learner;Building+AI-Powered+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-<p>
-Passionate about transforming data into meaningful insights and building intelligent AI applications using Machine Learning and Python.
-</p>
+### Data Science & AI Enthusiast | Python Developer | Machine Learning Learner
 
-<img src="https://komarev.com/ghpvc/?username=ajayvikram2512&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+Passionate about transforming **data into insights** and building **AI-powered solutions** that solve real-world problems.
+
+<img src="https://komarev.com/ghpvc/?username=ajayvikram2512&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
 ---
-<p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-I'm **Ajay Vikram**, a passionate **Data Science & AI enthusiast** who enjoys transforming raw data into meaningful insights and building intelligent applications with Python.
+🎓 Final-year **Data Science** student passionate about AI and Machine Learning.
 
-- 🔭 Currently working on **AI & Machine Learning Projects**
-- 🌱 Learning **Speech AI, NLP, LangChain & LLM Integration**
-- 🧠 Exploring **Deep Learning and Generative AI**
-- 📊 Passionate about **Data Analytics & Visualization**
-- 💻 Solving **Python coding challenges** to improve problem-solving skills
-- 🚀 Goal: Become an **AI/ML Engineer** and build impactful AI solutions
+💡 I enjoy building intelligent applications, analyzing data, and continuously learning new technologies.
 
-> *"Every project is another step toward mastering AI."*
+### What I'm Doing
 
-<br clear="right"/>
+- 🤖 Building AI & Machine Learning Projects
+- 📊 Performing Data Analysis using Python
+- 🧠 Learning NLP, LangChain & LLM Integration
+- 🎙 Exploring Speech AI
+- 💻 Solving Python Coding Problems
+- 🚀 Working towards becoming an AI/ML Engineer
+
+> **"Every project teaches something new. Every line of code makes me better."**
+
+<br>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="mailto:ajayvikram2512@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ajay-vikram-v-26763a24b/" target="_blank">
+<a href="https://www.linkedin.com/in/ajay-vikram-v-26763a24b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://ajayvikram2512.github.io/ajayvikram.github.io/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+<a href="https://ajayvikram2512.github.io/ajayvikram.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
 </a>
 
 </p>
@@ -63,72 +65,80 @@ I'm **Ajay Vikram**, a passionate **Data Science & AI enthusiast** who enjoys tr
 <img src="https://skillicons.dev/icons?i=python,mysql,html,css"/>
 </p>
 
-### Data Science & AI
+### AI & Data Science
 
 <p>
+
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
 <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/LLM%20Integration-8A2BE2?style=for-the-badge"/>
+
 </p>
 
 ### Visualization
 
 <p>
-<<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+
 </p>
 
 ### Tools
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+
 </p>
 
 ---
 
 # 🚀 Current Focus
 
-- 🤖 AI & Machine Learning Projects
-- 📊 Data Analysis using Python
-- 🧠 NLP & LLM Applications
-- 🎙 Learning Speech AI
-- 💻 Solving Coding Problems in Python
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 📊 Data Analytics
+- 💬 Natural Language Processing
+- 🎙 Speech AI
+- 🚀 LLM Applications
 
 ---
-
-# 📈 GitHub Stats
 
 # 📈 GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajayvikram2512&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajayvikram2512&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayvikram2512&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayvikram2512&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
 <img width="70%" src="https://streak-stats.demolab.com?user=ajayvikram2512&theme=github-dark-blue&hide_border=true"/>
 
 </div>
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ajayvikram2512&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -136,7 +146,7 @@ I'm **Ajay Vikram**, a passionate **Data Science & AI enthusiast** who enjoys tr
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayvikram2512&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayvikram2512&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -146,7 +156,7 @@ I'm **Ajay Vikram**, a passionate **Data Science & AI enthusiast** who enjoys tr
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ajayvikram2512&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ajayvikram2512&theme=algolia&no-frame=true&margin-w=10"/>
 
 </p>
 
@@ -154,24 +164,30 @@ I'm **Ajay Vikram**, a passionate **Data Science & AI enthusiast** who enjoys tr
 
 # 📚 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Deep Learning
-- NLP
-- Speech AI
-- LLM Integration
-- LangChain
+- 🤖 Generative AI
+- 🧠 Deep Learning
+- 🎙 Speech AI
+- 🔗 LangChain
+- 💬 LLM Integration
 
 ---
 
-# 💭 Quote
+# ⚡ Fun Fact
 
-> **"Keep Learning. Keep Building. Keep Growing." 🚀**
+```python
+while True:
+    learn()
+    build()
+    improve()
+    repeat()
+```
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+### ⭐ Thanks for visiting my profile!
+
+*"Keep Learning • Keep Building • Keep Growing"* 🚀
 
 </div>
