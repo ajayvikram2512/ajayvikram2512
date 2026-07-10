@@ -1,147 +1,160 @@
 <div align="center">
 
-<img src="./assets/ajay.jpeg" width="140" style="border-radius:50%" alt="Ajay Vikram"/>
+# Hi 👋, I'm Ajay Vikram
 
-<h1>Ajay Vikram</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+AI+Enthusiast;Python+Developer;Machine+Learning+Learner;Building+AI-Powered+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Enthusiast;Python+Developer;Machine+Learning+Learner" alt="Typing SVG"/>
+<p>
+Passionate about transforming data into meaningful insights and building intelligent AI applications using Machine Learning and Python.
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=ajayvikram2512&style=flat-square&color=58a6ff&label=Profile+Visits" alt="visits"/>
+<img src="https://komarev.com/ghpvc/?username=ajayvikram2512&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
-<br>
+---
 
-<table width="100%">
-<tr>
-<td width="240" valign="top">
+## 🚀 About Me
 
-### 📁 EXPLORER
+- 🎓 Data Science & AI Enthusiast
+- 🐍 Python Developer
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 📈 Exploring NLP, Deep Learning & LLM Integration
+- 🌱 Currently learning **Speech AI**
+- 💻 Love solving coding problems using Python
+- ⚡ Always learning new technologies
 
-```
-ajay-vikram/
-├─ 📄 about.py
-├─ 📄 skills.json
-├─ 📄 currently.md
-├─ 📁 stats/
-│  ├─ github.svg
-│  └─ streak.svg
-└─ 📄 contact.env
-```
+---
 
-**STATUS**
-```diff
-+ Online — open to
-+ collab on AI/ML work
-```
+## 🌐 Connect with Me
 
-</td>
-<td valign="top">
+<p align="left">
+<a href="mailto:ajayvikram2512@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**about.py**
-```python
-class Ajay:
-    role = "Data Science & AI Enthusiast"
+<a href="https://www.linkedin.com/in/ajay-vikram-v-26763a24b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-    def __init__(self):
-        self.stack = ["Python", "SQL"]
-        self.focus = ["Machine Learning", "Deep Learning", "NLP"]
-        self.learning = ["LangChain", "LLM Integration", "Speech AI"]
-        self.viz_tools = ["Power BI", "Tableau"]
-        self.mindset = "curious, consistent, still debugging life 🐍"
+<a href="https://ajayvikram2512.github.io/ajayvikram.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
 
-    def __repr__(self):
-        return f"<Ajay | building models & solving problems>"
-```
+</p>
 
-**currently.md**
-```md
-- [x] Working on AI & Machine Learning projects
-- [x] Doing Data Analysis using Python
-- [x] Building NLP & LLM Applications
-- [ ] Learning Speech AI
-- [ ] Solving one Python problem a day
-```
+---
 
-</td>
-</tr>
-</table>
+# 💻 Tech Stack
 
-<br>
+### Languages
 
-## ⚙️ skills.json
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css"/>
+</p>
 
-<table>
-<tr><td valign="top" width="20%">
+### Data Science & AI
 
-**Languages**
-<br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="26"/>
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM%20Integration-8A2BE2?style=for-the-badge"/>
+</p>
 
-</td><td valign="top" width="20%">
+### Visualization
 
-**Data Science**
-<br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="26"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="26"/>
-<img src="https://user-images.githubusercontent.com/25181517/192107859-1c66ce8c-e42f-4034-bfd7-780a5aeee7b4.png" width="26"/>
-<img src="https://user-images.githubusercontent.com/25181517/192107180-7ea35983-712e-4c40-84e6-71e485f42cc9.png" width="26"/>
+<p>
+<img src="https://skillicons.dev/icons?i=powerbi"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+</p>
 
-</td><td valign="top" width="20%">
+### Tools
 
-**AI / ML**
-<br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="26"/>
-<img src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" width="26"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
+</p>
 
-</td><td valign="top" width="20%">
+---
 
-**Visualization**
-<br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="26"/>
-<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="26"/>
+# 🚀 Current Focus
 
-</td><td valign="top" width="20%">
+- 🤖 AI & Machine Learning Projects
+- 📊 Data Analysis using Python
+- 🧠 NLP & LLM Applications
+- 🎙 Learning Speech AI
+- 💻 Solving Coding Problems in Python
 
-**Tools**
-<br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="26"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="26"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="26"/>
+---
 
-</td></tr>
-</table>
+# 📈 GitHub Stats
 
-<br>
+<p align="center">
 
-## 📊 stats/
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajayvikram2512&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayvikram2512&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ajayvikram2512&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayvikram2512&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ajayvikram2512&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- NLP
+- Speech AI
+- LLM Integration
+- LangChain
+
+---
+
+# 💭 Quote
+
+> **"Keep Learning. Keep Building. Keep Growing." 🚀**
+
+---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ajayvikram2512&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayvikram2512&theme=github-dark-blue&hide_border=true&background=0d1117" width="48%"/>
-</div>
 
-<br>
-
-## 📨 contact.env
-
-```env
-LINKEDIN  = "https://www.linkedin.com/in/ajay-vikram-v-26763a24b/"
-PORTFOLIO = "https://ajayvikram2512.github.io/ajayvikram.github.io/"
-EMAIL     = "ajayvikram2512@gmail.com"
-```
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/ajay-vikram-v-26763a24b/"><img src="https://img.shields.io/badge/LinkedIn-58A6FF?style=flat-square&logo=linkedin&logoColor=0d1117"/></a>
-<a href="https://ajayvikram2512.github.io/ajayvikram.github.io/"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=googlechrome&logoColor=0d1117"/></a>
-<a href="mailto:ajayvikram2512@gmail.com"><img src="https://img.shields.io/badge/Email-58A6FF?style=flat-square&logo=gmail&logoColor=0d1117"/></a>
-
-<br><br>
-
-```bash
-$ echo "Thanks for scrolling this far — let's build something with data."
-```
+### ⭐ If you like my work, consider giving a star to my repositories!
 
 </div>
